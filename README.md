@@ -23,11 +23,6 @@ Soy estudiante de informática, interesado en aprender y dominar todo lo relacio
   - ![VS Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 - **Bases de Datos**: 
   - ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
-## 🌐 Conéctate conmigo
-- [![LinkedIn]](https://www.linkedin.com/in/tu-perfil](https://www.linkedin.com/in/cristian-gonzalez-bonilla-9b183421b/))
-- [![GitHub](https://github.com/CristianBoni22](https://github.com/cristianboni22))
-
 ## 📊 Estadísticas de GitHub
 ![Cristian's GitHub stats](https://github-readme-stats.vercel.app/api?username=CristianBoni22&show_icons=true&theme=dracula)
 ---
