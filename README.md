@@ -25,8 +25,8 @@ Soy estudiante de informática, interesado en aprender y dominar todo lo relacio
   - ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 ## 🌐 Conéctate conmigo
-- [![LinkedIn]([https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tu-perfil](https://www.linkedin.com/in/cristian-gonzalez-bonilla-9b183421b/))
-- [![GitHub]([https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/CristianBoni22](https://github.com/cristianboni22))
+- [![LinkedIn]](https://www.linkedin.com/in/tu-perfil](https://www.linkedin.com/in/cristian-gonzalez-bonilla-9b183421b/))
+- [![GitHub](https://github.com/CristianBoni22](https://github.com/cristianboni22))
 
 ## 📊 Estadísticas de GitHub
 ![Cristian's GitHub stats](https://github-readme-stats.vercel.app/api?username=CristianBoni22&show_icons=true&theme=dracula)
