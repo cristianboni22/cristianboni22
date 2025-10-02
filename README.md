@@ -40,8 +40,7 @@ Soy estudiante de informática, interesado en aprender y dominar todo lo relacio
 ---
 
 ## 🌐 Conéctemos
-- [LinkedIn](https://es.linkedin.com/in/cristian-gonzalez-bonilla-9b183421b)  
-- 📧 [Correo](cristiangonzalezbonilla2003@gmail.com)  
+- [LinkedIn](https://es.linkedin.com/in/cristian-gonzalez-bonilla-9b183421b)
 
 ---
 
