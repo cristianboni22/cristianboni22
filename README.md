@@ -4,9 +4,6 @@
 
 ---
 
-<!-- Puedes personalizar este banner -->
-![Banner](https://via.placeholder.com/900x200.png?text=Bienvenido+a+mi+Perfil)
-
 ## 📝 Sobre mí
 Soy estudiante de informática, interesado en aprender y dominar todo lo relacionado con el desarrollo de software y la tecnología. Actualmente, me encuentro explorando el mundo de la programación y siempre busco nuevas oportunidades para mejorar mis habilidades.
 
@@ -36,12 +33,6 @@ Soy estudiante de informática, interesado en aprender y dominar todo lo relacio
 
 ---
 
-## 🚀 Proyectos Destacados
-- [📌 Proyecto 1](https://github.com/CristianBoni22/proyecto1) – Breve descripción del proyecto.  
-- [📌 Proyecto 2](https://github.com/CristianBoni22/proyecto2) – Breve descripción del proyecto.  
-
----
-
 ## 📊 Estadísticas de GitHub
 ![Cristian's GitHub stats](https://github-readme-stats.vercel.app/api?username=CristianBoni22&show_icons=true&theme=dracula)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CristianBoni22&layout=compact&theme=dracula)
@@ -49,9 +40,8 @@ Soy estudiante de informática, interesado en aprender y dominar todo lo relacio
 ---
 
 ## 🌐 Conéctemos
-- [LinkedIn](https://www.linkedin.com/in/tuusuario/)  
-- [Portafolio](https://tuportafolio.com)  
-- 📧 [Correo](mailto:tuemail@gmail.com)  
+- [LinkedIn](https://es.linkedin.com/in/cristian-gonzalez-bonilla-9b183421b)  
+- 📧 [Correo](cristiangonzalezbonilla2003@gmail.com)  
 
 ---
 
